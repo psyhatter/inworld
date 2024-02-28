@@ -1,6 +1,6 @@
 # GoLang InWorld.ai API Wrapper
 
-![Go Reference](https://pkg.go.dev/badge/github.com/psyhatter/inworld.svg)
+[![Go Reference](https://pkg.go.dev/badge/github.com/psyhatter/inworld.svg)](https://pkg.go.dev/github.com/psyhatter/inworld)
 
 This project provides a GoLang based API wrapper to interact with the [InWorld.ai API](https://docs.inworld.ai/).
 It allows users to conveniently call InWorld.ai functions and use its features without having to deal with underlying
